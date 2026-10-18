@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/viniciuschiele/flask-apscheduler/commit/d5b6cdd10415a413b2773b7750d56b7dfed68018",
       "git:hexsha": "d5b6cdd10415a413b2773b7750d56b7dfed68018",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.13.1"
     },
     {
