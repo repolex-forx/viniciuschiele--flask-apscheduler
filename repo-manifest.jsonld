@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/viniciuschiele/flask-apscheduler/commit/d5b6cdd10415a413b2773b7750d56b7dfed68018",
       "git:hexsha": "d5b6cdd10415a413b2773b7750d56b7dfed68018",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.13.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.13.1",
+      "repolex:parsedAt": "2026-10-18T06:29:00.904149+00:00"
     },
     {
       "@id": "https://repolex.ai/r/viniciuschiele/flask-apscheduler/commit/3334d7e174fef9dc45ea239125e740e74a39ca7e",
