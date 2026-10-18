@@ -1,0 +1,11 @@
+{
+  "org": "viniciuschiele",
+  "repo": "flask-apscheduler",
+  "versions": [
+    {
+      "commit": "d5b6cdd10415a413b2773b7750d56b7dfed68018",
+      "tag": "1.13.1",
+      "parsed_at": "2026-10-18T06:29:00.904727+00:00"
+    }
+  ]
+}
